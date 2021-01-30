@@ -11,4 +11,4 @@
 - 📫 How to reach me: github.com/perezrei
 - ⚡ For now I'm interested in CCS Grid and Java Script
 - 😄 When I'm not studing I love to play the guitar and navigate on the internet in my free time.
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=perezrei&repo=github-readme-stats)](https://github.com/perezrei/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=perezrei)](https://github.com/anuraghazra/github-readme-stats)
