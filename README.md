@@ -6,4 +6,6 @@
 - 📫 How to reach me:  [**Twitter**](https://twitter.com/perezrei/) - [**Linkedin**](https://www.linkedin.com/in/perezrei/)
 - ⚡ For now I'm interested in **CCS Grid** and **Java Script**
 - When I'm not studing:book: I love to play the guitar:musical_note: and navigate on the internet:computer: in my free time:watch:
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=perezrei)](https://github.com/anuraghazra/github-readme-stats)
